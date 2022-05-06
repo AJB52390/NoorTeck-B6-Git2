@@ -6,4 +6,13 @@ public class DemoFour {
 		System.out.println("Demo 4....");
 	}
 	
+	public static void div(int a, int b) {
+		
+		int result = a/b;
+		
+		System.out.println(result);
+		
+		// stash
+	}
+	
 }
