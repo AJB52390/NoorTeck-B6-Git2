@@ -7,6 +7,8 @@ public class DemoTwo {
 		System.out.println("Git demo 2...");
 		
 		System.out.println("random code...");
+		
+		System.out.println("Pull Example");
 	}
 
 	public void add(int a, int b) {
